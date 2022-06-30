@@ -75,7 +75,7 @@ rotation = -3.13812
 texture = ExtResource( 8 )
 
 [node name="fire_point" type="Node2D" parent="player1/turret/turret"]
-position = Vector2( 62.2211, -0.106018 )
+position = Vector2( 110.21, -4.64105 )
 
 [node name="TanksTankTracks3" type="Sprite" parent="player1"]
 position = Vector2( 10.0001, 39.9999 )
